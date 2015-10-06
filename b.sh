@@ -1,0 +1,2 @@
+ORACLE_HOME=/u01/app
+export ORACLE_HOME

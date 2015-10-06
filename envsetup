@@ -1,0 +1,18 @@
+
+Choose environment and press [ENTER]: 
+
+     1) EM12c - Enterprise Manager 12c Home (Default)
+     2) EMDB  - Enterprise Manager Database Repository Home
+     3) MSDB  - Masking and Subsetting Database Home
+     4) Grid  - Oracle Clusterware Home
+     5) Help  - Readme.txt
+
+(1-4): 2
+
+Setting Environment for Enterprise Manager Database Repository
+ORACLE_UNQNAME=emdb
+ORACLE_SID=emdb
+ORACLE_BASE=/u01/app/oracle
+ORACLE_HOME=/u01/app/oracle/product/11.2.0/dbhome_1
+sport
+[oracle@workshop ~]$ 

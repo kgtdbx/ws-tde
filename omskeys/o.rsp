@@ -1,0 +1,3 @@
+AdminServerURL=t3s://workshop.oracle.com:7102
+AdminConfigFile=<'config' /home/oracle/Desktop/.workshopconfig/omskeys/config
+AdminKeyFile=<'key' /home/oracle/Desktop/.workshopconfig/omskeys/key

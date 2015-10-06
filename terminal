@@ -1,0 +1,4 @@
+[oracle@workshop ~]$ gnome-terminal --window-with-profile="Oracle Workshop"
+[oracle@workshop ~]$ gnome-terminal --window-with-profile="Oracle Workshop" --working-directory /home/oracle/Desktop --execute setenv.sh
+[oracle@workshop ~]$ gnome-terminal --window-with-profile="Oracle Workshop" --working-directory /home/oracle/Desktop --execute ./setenv.sh
+[oracle@workshop ~]$ 

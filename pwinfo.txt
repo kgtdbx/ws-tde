@@ -1,0 +1,9 @@
+--------------------------------------
+OS ACCOUNTS
+root/manager42
+oracle/manager42
+
+DB ACCOUNTS
+sys/manager42
+system/manager42
+--------------------------------------
